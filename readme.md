@@ -33,16 +33,6 @@ and avoids all deprecated APIs such as `LLMChain`, `LLMMathChain`, and legacy ag
 
 ---
 
-## 📂 Project Structure
-
-```
-
-├── app.py
-├── requirements.txt
-├── .env
-└── README.md
-
-````
 
 ---
 
@@ -105,14 +95,6 @@ This approach is:
 * More stable
 * Easier to debug
 * Interview & production friendly
-
----
-
-## 📝 Example Questions
-
-* *“I have 5 bananas and 7 grapes. How many fruits do I have after eating some?”*
-* *“Who is A. P. J. Abdul Kalam?”*
-* *“Explain the solution to this logic puzzle step by step.”*
 
 ---
 
