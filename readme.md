@@ -98,6 +98,10 @@ This approach is:
 
 ---
 
+## Example Question 
+
+* I have 5 bananas and 7 grapes. I eat 2 bananas and give away 3 grapes. Then I buy a dozen apples and 2 packs of blueberries. Each pack contains 25 blueberries. How many total pieces of fruit do I have?
+
 ## ⚠️ Important Notes
 
 * This project **does NOT use deprecated LangChain APIs**
