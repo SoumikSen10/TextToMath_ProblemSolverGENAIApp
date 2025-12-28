@@ -6,7 +6,8 @@ A modern **GenAI-powered Streamlit application** that can:
 - Answer **logical and reasoning-based questions**
 - Fetch **factual information from Wikipedia**
 
-This project is built using **Groq’s LLaMA model**, **LangChain’s Runnable architecture**, and avoids all deprecated APIs such as `LLMChain`, `LLMMathChain`, and legacy agents.
+This project is built using **Groq’s LLaMA model**, **LangChain’s Runnable architecture**,
+and avoids all deprecated APIs such as `LLMChain`, `LLMMathChain`, and legacy agents.
 
 ---
 
